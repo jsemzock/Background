@@ -1,0 +1,43 @@
+body {
+  background-color: yellow;
+}
+.outerDiv {
+  display: flex;
+}
+
+.prettyBox {
+  /* color: white; */
+  padding: 300px;
+  margin: 0 auto;
+}
+
+#clicker {
+  line-height: 50px;
+  font-family: "Gill Sans";
+  font-size: 24px;
+  letter-spacing: 3px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 0 auto;
+}
+
+header {
+  font-family: Helvetica, sans-serif;
+  text-align: right;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #5f5f5f;
+  letter-spacing: 2px;
+}
+
+a {
+  color: #669999;
+  font-weight: bold;
+}
+
+a:visited {
+  color: ;
+}
